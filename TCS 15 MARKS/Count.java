@@ -40,7 +40,7 @@ public class Count {
         }
         System.out.println("Number of vowels: "+vow);
         System.out.println("Number of consonants: "+cons);
-        System.out.println("Number of numbers: "+num);
+        System.out.println("Number of digits: "+num);
     }
     
 }
